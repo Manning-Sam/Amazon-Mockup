@@ -1,0 +1,41 @@
+.container{
+    align-items: center;
+}
+.button{
+    width: 300px;
+    height:25px;
+    text-align: center;
+}
+.link{/*not working as expected*/
+    color:lightskyblue
+}
+.yellow{
+    background-color:#f5be32
+}
+.padding-24{
+    padding-bottom: 24px;
+}
+.padding-20{
+    padding-bottom: 20px;
+}
+.padding{
+    padding-top: 2px;
+}
+.border{/*not working as expected*/
+    border: 5px;
+    border-color:grey;
+    border-width:325px;
+    margin:25px
+}
+.footer{/*not working as expected*/
+    height:150px;
+    background-color:white;
+    width:100%;
+    text-align: center;
+}
+.center {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
